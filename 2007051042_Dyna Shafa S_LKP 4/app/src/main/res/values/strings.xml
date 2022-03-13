@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyView</string>
+    <string name="harga">Rp. 30.000</string>
+    <string name="hamster">Hamster Winter White</string>
+    <string name="deskripsi">Hamster yang umumnya berwarna putih ini dapat dipelihara lebih dari satu ekor. Selain yang berwarna putih, hamster winter white juga memiliki varian yang beraneka ragam, seperti tiger, pearl, dan sapphire.</string>
+    <string name="tipe">Tipe</string>
+    <string name="winter_white">Winter White</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="betina">Betina</string>
+    <string name="umur">Umur</string>
+    <string name="bulan">3 Bulan</string>
+    <string name="ciri_khas">Ciri Khas</string>
+    <string name="teks">Hamster ini adalah makhluk yang pemalu dan jika dirinya dikagetkan secara mendadak maka mudah ketakutan.</string>
+    <string name="owner">Owner</string>
+    <string name="dyna">Dyna Shafa Salsabila</string>
+    <string name="buy">buy</string>
+
+
+</resources>
