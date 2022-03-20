@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorAccentSecondary
+color colorPrimary
+color colorPrimaryDark
+drawable bg_button
+drawable bg_button_disable
+drawable ic_close_black_24dp
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id my_button
+id my_edit_text
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme

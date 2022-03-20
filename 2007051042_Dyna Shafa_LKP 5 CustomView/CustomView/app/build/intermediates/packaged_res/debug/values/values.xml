@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#F473B9</color>
+    <color name="colorAccentSecondary">#FFBDE6</color>
+    <color name="colorPrimary">#F10086</color>
+    <color name="colorPrimaryDark">#F582A7</color>
+    <string name="app_name">CustomView</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
