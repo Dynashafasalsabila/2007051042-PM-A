@@ -6,17 +6,13 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.viewbinding1"
+        applicationId "com.example.buildapk"
         minSdk 21
         targetSdk 32
         versionCode 1
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-    }
-
-    buildFeatures{
-        viewBinding true;
     }
 
     buildTypes {
@@ -33,7 +29,6 @@ android {
 
 dependencies {
 
-    implementation 'com.github.bumptech.glide:glide:4.13.0'
     implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.google.android.material:material:1.5.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
