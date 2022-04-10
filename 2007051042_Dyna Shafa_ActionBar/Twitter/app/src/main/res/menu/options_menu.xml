@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/moment"
+        android:title="Moment"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/friend"
+        android:title="add friend"
+        android:icon="@drawable/icon1"
+        android:iconTint="@color/white"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/message"
+        android:title="message"
+        android:icon="@drawable/icon2"
+        android:iconTint="@color/white"
+        app:showAsAction="ifRoom"/>
+</menu>
